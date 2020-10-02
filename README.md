@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![xmyqsh's github stats](https://github-readme-stats.vercel.app/api?username=xmyqsh&count_private=true&show_icons=true&theme=darcula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmyqsh&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xmyqsh/xmyqsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
